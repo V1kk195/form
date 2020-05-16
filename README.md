@@ -1,7 +1,7 @@
 # form [Project on GitHub](https://github.com/victoria31f/form)
 ## by Victoria Fedotkina
 
-#### v0.0.1
+#### v1.1.0
 
 This is a validation form built in educational purposes.
 
